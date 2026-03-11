@@ -2,38 +2,38 @@ var MENU = {
     "churrasco": [
         {
             "id": "ribs-brisket-and-burnt-ends",
-            "img": "./img/cardapio/churrasco/joes-kc-ribs-brisket-and-burnt-ends.6710e994980e485e6441b794717ad6fb.jpg",
-            "name": "Joe's KC BBQ",
+            "img": "./img/cardapio/caixaparacompartilhar/caixasobmedida.jpeg",
+            "name": "Caixa Sob Medida",
             "dsc": "Joe's KC Ribs, Brisket & Burnt Ends",
-            "price": 110.99
+            "price": 49.90
         },
         {
             "id": "005-kings-carolina-oink-sampler",
-            "img": "./img/cardapio/churrasco/carolina-bbq-oink-sampler.1340b5a10cedc238cb2280306dd1d5a5.jpg",
-            "name": "Kings BBQ",
+            "img": "./img/cardapio/caixaparacompartilhar/caixareuniao.jpeg",
+            "name": "Caixa Reunião",
             "dsc": "Carolina BBQ Oink Sampler",
-            "price": 89
+            "price": 74,90
         },
         {
             "id": "texas-monthlys-1-bbq-brisket",
-            "img": "./img/cardapio/churrasco/texas-monthlys-1-bbq-brisket.1006a061be7acae03992e420fbca995a.jpg",
-            "name": "Snow's BBQ",
+            "img": "./img/cardapio/caixaparacompartilhar/caixacelebracao.jpeg",
+            "name": "Caixa Celebração",
             "dsc": "Texas Monthly's #1 BBQ Brisket",
-            "price": 199
+            "price": 95.90
         },
         {
             "id": "whole-brisket-texas-bbq-sauce",
-            "img": "./img/cardapio/churrasco/whole-brisket-texas-barbecue-bbq-sauce.e07ee4818b20ed43d217bf67fedd41ce.jpg",
-            "name": "Franklin Barbecue",
+            "img": "./img/cardapio/caixaparacompartilhar/caixafestanca.jpeg",
+            "name": "Caixa Festança",
             "dsc": "Whole Brisket + Texas Barbecue BBQ Sauce",
-            "price": 249
+            "price": 145.90
         },
         {
             "id": "whole-texas-smoked-brisket",
-            "img": "./img/cardapio/churrasco/whole-texas-smoked-brisket.a5558a25381e271408e197936e7985d8.jpg",
-            "name": "Terry Black's Barbecue",
+            "img": "./img/cardapio/caixaparacompartilhar/caixaevento.jpeg",
+            "name": "Caixa Evento",
             "dsc": "Whole Texas Smoked Brisket",
-            "price": 189
+            "price": 194.90
         },
         {
             "id": "mini-trinity-bbq-combo-brisket-ribs-and-links",
@@ -517,6 +517,7 @@ var MENU = {
     ]*/
 
 }
+
 
 
 
