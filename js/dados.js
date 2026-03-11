@@ -89,14 +89,14 @@ var MENU = {
         {
             "id": "the-gramercy-tavern-burger-4-pack",
             "img": "./img/cardapio/hitsdasemana/202602192341_4P1V_.jpeg",
-            "name": "Gramercy Tavern",
+            "name": "Hits da semana",
             "dsc": "The Gramercy Tavern Burger - 4 Pack",
             "price": 99
         },
         {
             "id": "shake-shack-shackburger-8-pack",
-            "img": "./img/cardapio/burguers/shake-shack-shackburger-8-pack.973a5e26836ea86d7e86a327becea2b0.jpg",
-            "name": "Shake Shack",
+            "img": "./img/cardapio/hitsdasemana/202602182129_TITW_.jpeg",
+            "name": "Os mais pedidos",
             "dsc": "Shake Shack ShackBurger® - 8 Pack",
             "price": 49
         },
@@ -517,4 +517,5 @@ var MENU = {
     ]
 
 }
+
 
