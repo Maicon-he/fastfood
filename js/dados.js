@@ -88,7 +88,7 @@ var MENU = {
     "burgers": [
         {
             "id": "the-gramercy-tavern-burger-4-pack",
-            "img": "./img/cardapio/hitsdasemana/202602182129_TITW_.jpeg",
+            "img": "./img/cardapio/hitsdasemana/202602192341_4P1V_.jpeg",
             "name": "Gramercy Tavern",
             "dsc": "The Gramercy Tavern Burger - 4 Pack",
             "price": 99
@@ -517,3 +517,4 @@ var MENU = {
     ]
 
 }
+
