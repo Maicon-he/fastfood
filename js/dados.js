@@ -100,7 +100,7 @@ var MENU = {
             "dsc": "Shake Shack ShackBurger® - 8 Pack",
             "price": 29.90
         },
-        {
+       /* {
             "id": "gotts-cheeseburger-kit-for-4",
             "img": "./img/cardapio/burguers/gotts-complete-cheeseburger-kit-for-4.7bdc74104b193427b3fe6eae39e05b5e.jpg",
             "name": "Gott's Roadside",
@@ -169,7 +169,7 @@ var MENU = {
             "name": "Gramercy Tavern",
             "dsc": "Gramercy Tavern Burger + Kielbasa Combo",
             "price": 149
-        }
+        }*/
     ],
     /*"sobremesas": [
         {
@@ -517,6 +517,7 @@ var MENU = {
     ]*/
 
 }
+
 
 
 
