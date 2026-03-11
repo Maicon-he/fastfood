@@ -171,7 +171,7 @@ var MENU = {
             "price": 149
         }
     ],
-    "sobremesas": [
+    /*"sobremesas": [
         {
             "id": "15259-german-chocolate-killer-brownie-tin-pack",
             "img": "./img/cardapio/sobremesas/german-chocolate-killer-brownie-tin-pack.5ebc34160f28767a9d94c4da2e04c4b9.jpg",
@@ -256,8 +256,8 @@ var MENU = {
             "dsc": "Jacques' World Famous Chocolate Chip Cookies - 12 Pack",
             "price": 69.95
         }
-    ],
-    "bebidas": [
+    ],*/
+  /*  "bebidas": [
         {
             "id": "hong-kong-boba-tea-kit-for-6",
             "img": "./img/cardapio/bebidas/hong-kong-boba-tea-kit-for-6.63841de36d8e5edfafa13023fc303285.jpg",
@@ -342,7 +342,7 @@ var MENU = {
             "dsc": "NOLA Cold Brew Concentrate Bag-in-Box",
             "price": 40
         }
-    ],
+    ],*/
     "pizzas": [
         {
             "id": "2-lou-malnatis-deep-dish-pizzas",
@@ -429,7 +429,7 @@ var MENU = {
             "price": 79
         }
     ],
-    "steaks": [
+    /*"steaks": [
         {
             "id": "california-reserve-filet-mignon-steaks-gift-box",
             "img": "./img/cardapio/steaks/california-reserve-filet-mignon-steaks-gift-box.bf226e317aad85f47897ae7e325f790d.jpg",
@@ -514,9 +514,10 @@ var MENU = {
             "dsc": "Mesquite Smoked Peppered Beef Tenderloin",
             "price": 165
         }
-    ]
+    ]*/
 
 }
+
 
 
 
