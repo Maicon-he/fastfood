@@ -35,7 +35,7 @@ var MENU = {
             "dsc": "Whole Texas Smoked Brisket",
             "price": 194.90
         },
-        {
+       /* {
             "id": "mini-trinity-bbq-combo-brisket-ribs-and-links",
             "img": "./img/cardapio/churrasco/mini-trinity-bbq-combo-brisket-ribs-and-links.245582f593bf64b23b57dfca2be18cfd.jpg",
             "name": "Bludso's BBQ",
@@ -83,7 +83,7 @@ var MENU = {
             "name": "Snow's BBQ",
             "dsc": "Best of Texas BBQ Combo - Serves 14",
             "price": 269
-        }
+        }*/
     ],
     "burgers": [
         {
@@ -517,6 +517,7 @@ var MENU = {
     ]*/
 
 }
+
 
 
 
