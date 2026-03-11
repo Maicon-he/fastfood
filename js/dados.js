@@ -89,16 +89,16 @@ var MENU = {
         {
             "id": "the-gramercy-tavern-burger-4-pack",
             "img": "./img/cardapio/hitsdasemana/202602192341_4P1V_.jpeg",
-            "name": "Gramercy Tavern",
+            "name": "Hits da semana",
             "dsc": "The Gramercy Tavern Burger - 4 Pack",
-            "price": 99
+            "price": 19.90
         },
         {
             "id": "shake-shack-shackburger-8-pack",
             "img": "./img/cardapio/hitsdasemana/202602182129_TITW_.jpeg",
-            "name": "Shake Shack",
+            "name": "Mais Pedido",
             "dsc": "Shake Shack ShackBurger® - 8 Pack",
-            "price": 49
+            "price": 29.90
         },
         {
             "id": "gotts-cheeseburger-kit-for-4",
@@ -517,6 +517,7 @@ var MENU = {
     ]
 
 }
+
 
 
 
