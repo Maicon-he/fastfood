@@ -12,7 +12,7 @@ var MENU = {
             "img": "./img/cardapio/caixaparacompartilhar/caixareuniao.jpeg",
             "name": "Caixa Reunião",
             "dsc": "Carolina BBQ Oink Sampler",
-            "price": 74,90
+            "price": 74.90
         },
         {
             "id": "texas-monthlys-1-bbq-brisket",
@@ -517,6 +517,7 @@ var MENU = {
     ]*/
 
 }
+
 
 
 
