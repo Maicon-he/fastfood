@@ -95,8 +95,7 @@ var MENU = {
         },
         {
             "id": "shake-shack-shackburger-8-pack",
-            "img": "./img/cardapio/hitsdasemana/202602182129_TITW_.jpeg
-",
+            "img": "./img/cardapio/hitsdasemana/202602182129_TITW_.jpeg",
             "name": "Shake Shack",
             "dsc": "Shake Shack ShackBurger® - 8 Pack",
             "price": 49
@@ -518,5 +517,6 @@ var MENU = {
     ]
 
 }
+
 
 
