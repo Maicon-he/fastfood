@@ -346,26 +346,26 @@ var MENU = {
     "pizzas": [
         {
             "id": "2-lou-malnatis-deep-dish-pizzas",
-            "img": "./img/cardapio/pizzas/2-lou-malnatis-deep-dish-pizzas.bf0fe065d251a9cca3925b269d443a27.jpg",
-            "name": "Lou Malnati's Pizza",
+            "img": "./img/cardapio/classicos/favoritosdacasa.jpeg",
+            "name": "Favoritos da Casa",
             "dsc": "2 Lou Malnati's Deep Dish Pizzas",
-            "price": 67.99
+            "price": 39.90
         },
         {
             "id": "23699-choose-your-own-thin-crust-pizza-4-pack",
-            "img": "./img/cardapio/pizzas/choose-your-own-thin-crust-pizza-4-pack.b928a2008eab50c65dc87e59b5952190.jpg",
-            "name": "Bartolini's",
+            "img": "./img/cardapio/classicos/osqueridinhos.jpeg",
+            "name": "Os queridinhos",
             "dsc": "Choose Your Own Thin Crust Pizza - 4 Pack",
-            "price": 139
+            "price": 49.90
         },
         {
             "id": "choose-your-own-new-haven-style-pizza-6-pack",
-            "img": "./img/cardapio/pizzas/choose-your-own-new-haven-style-pizza-6-pack.ab82828afc6172cdd4017556c15e36dd.jpg",
-            "name": "Zuppardi's Apizza",
+            "img": "./img/cardapio/classicos/classicosirresistiveis.jpeg",
+            "name": "Clássicos Irresistíveis",
             "dsc": "New Haven-Style Pizza - 6 Pack (Choose Your Own)",
-            "price": 79
+            "price": 59.90
         },
-        {
+       /* {
             "id": "6-lou-malnatis-deep-dish-pizzas",
             "img": "./img/cardapio/pizzas/6-lou-malnatis-deep-dish-pizzas.f59993181da5d295668c8a6fb856055e.jpg",
             "name": "Lou Malnati's Pizza",
@@ -427,7 +427,7 @@ var MENU = {
             "name": "The Columbia Inn",
             "dsc": "Plain Thin Crust Pizza - 4 Pack",
             "price": 79
-        }
+        }*/
     ],
     /*"steaks": [
         {
@@ -517,6 +517,7 @@ var MENU = {
     ]*/
 
 }
+
 
 
 
