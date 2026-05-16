@@ -5,35 +5,35 @@ var MENU = {
             "img": "./img/cardapio/caixaparacompartilhar/caixasobmedida.jpeg",
             "name": "Caixa Sob Medida",
             "dsc": "Joe's KC Ribs, Brisket & Burnt Ends",
-            "price": 49.90
+            "price": 64.90
         },
         {
             "id": "005-kings-carolina-oink-sampler",
             "img": "./img/cardapio/caixaparacompartilhar/caixareuniao.jpeg",
             "name": "Caixa Reunião",
             "dsc": "Carolina BBQ Oink Sampler",
-            "price": 74.90
+            "price": 89.90
         },
         {
             "id": "texas-monthlys-1-bbq-brisket",
             "img": "./img/cardapio/caixaparacompartilhar/caixacelebracao.jpeg",
             "name": "Caixa Celebração",
             "dsc": "Texas Monthly's #1 BBQ Brisket",
-            "price": 95.90
+            "price": 109.90
         },
         {
             "id": "whole-brisket-texas-bbq-sauce",
             "img": "./img/cardapio/caixaparacompartilhar/caixafestanca.jpeg",
             "name": "Caixa Festança",
             "dsc": "Whole Brisket + Texas Barbecue BBQ Sauce",
-            "price": 145.90
+            "price": 160.90
         },
         {
             "id": "whole-texas-smoked-brisket",
             "img": "./img/cardapio/caixaparacompartilhar/caixaevento.jpeg",
             "name": "Caixa Evento",
             "dsc": "Whole Texas Smoked Brisket",
-            "price": 194.90
+            "price": 210.90
         },
        /* {
             "id": "mini-trinity-bbq-combo-brisket-ribs-and-links",
@@ -91,23 +91,23 @@ var MENU = {
             "img": "./img/cardapio/hitsdasemana/202602192341_4P1V_.jpeg",
             "name": "Hits da semana",
             "dsc": "The Gramercy Tavern Burger - 4 Pack",
-            "price": 19.90
+            "price": 35.90
         },
         {
             "id": "shake-shack-shackburger-8-pack",
             "img": "./img/cardapio/hitsdasemana/202602182129_TITW_.jpeg",
             "name": "Mais Pedido",
             "dsc": "Shake Shack ShackBurger® - 8 Pack",
-            "price": 29.90
+            "price": 39.90
         },
-       /* {
+       {
             "id": "gotts-cheeseburger-kit-for-4",
-            "img": "./img/cardapio/burguers/gotts-complete-cheeseburger-kit-for-4.7bdc74104b193427b3fe6eae39e05b5e.jpg",
-            "name": "Gott's Roadside",
+            "img": "./img/cardapio/hitsdasemana/202602182129_TITW_.jpeg",
+            "name": "Super Promo",
             "dsc": "Gott's Complete Cheeseburger Kit for 4",
-            "price": 99
+            "price": 34.90
         },
-        {
+      /*  {
             "id": "le-big-matt-kit-for-6",
             "img": "./img/cardapio/burguers/le-big-matt-kit-for-6.1ddae6e382bb3218eeb0fd5247de115a.jpg",
             "name": "Emmy Squared",
@@ -349,21 +349,21 @@ var MENU = {
             "img": "./img/cardapio/classicos/favoritosdacasa.jpeg",
             "name": "Favoritos da Casa",
             "dsc": "2 Lou Malnati's Deep Dish Pizzas",
-            "price": 39.90
+            "price": 54.90
         },
         {
             "id": "23699-choose-your-own-thin-crust-pizza-4-pack",
             "img": "./img/cardapio/classicos/osqueridinhos.jpeg",
             "name": "Os queridinhos",
             "dsc": "Choose Your Own Thin Crust Pizza - 4 Pack",
-            "price": 49.90
+            "price": 64.90
         },
         {
             "id": "choose-your-own-new-haven-style-pizza-6-pack",
             "img": "./img/cardapio/classicos/classicosirresistiveis.jpeg",
             "name": "Clássicos Irresistíveis",
             "dsc": "New Haven-Style Pizza - 6 Pack (Choose Your Own)",
-            "price": 59.90
+            "price": 74.90
         },
        /* {
             "id": "6-lou-malnatis-deep-dish-pizzas",
